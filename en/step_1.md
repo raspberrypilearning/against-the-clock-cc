@@ -1,58 +1,62 @@
 ## Introduction
 
-Add project description here. What will learners be making?
+You are going to learn how to make a timer, so that you can use it to challenge your friends!
 
-### What you will make
+__Instructions__: If you're reading this online, press __A+B__ on the micro:bit below to set your timer to 0, __A__ to start your timer, and __B__ to stop it.
 
---- no-print ---
-Add instructions for using the embedded content here.
-
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
+<div class="trinket" style="width:400px;margin: 0 auto;">
+<div style="position:relative;height:0;padding-bottom:81.97%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=_iRqcVkfXiffq" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-scripts allow-same-origin" frameborder="0"></iframe></div>
 </div>
---- /no-print ---
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+### Additional information for club leaders
+
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/against-the-clock/print).
+
 
 --- collapse ---
 ---
-title: What you will need
+title: Club leader notes
 ---
-### Hardware
 
-+ Describe hardware here
 
-### Software
+## Introduction:
+In this project, children will learn how to make a timer, which can be used to challenge their friends!
 
-+ Scratch 2.0 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
+## Resources
 
-### Downloads
+For this project, the [MakeCode (PXT)](http://jumpto.cc/pxt-new) microbit editor should be used.
 
-+ [rpf.io/project-name-go](http://rpf.io/project-name-go){:target="_blank"}
+You can find a completed version of this project at [makecode.microbit.org/#pub:55342-38825-28229-57221](https://makecode.microbit.org/#pub:55342-38825-28229-57221), and the compiled .hex file can be downloaded by clicking the 'Download Project Materials' link for this project, which contains:
+
++ microbit-Against-the-Clock.hex
++ microbit-Countdown.hex
+
+## Learning Objectives
++ Repetition (`while` loop);
++ `not` Boolean operator.
+
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+
++ [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
+
+## Challenges
++ "Challenge your friends!" - use the timer to set challenges for others to complete.
++ "Counting Down" - using a `while` loop to create a timer that counts down until it reaches 0.
+
 
 --- /collapse ---
 
---- collapse ---
----
-title: What you will learn
----
-
-+ Two or three learning objectives
-+ ...should go here
-
---- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: Project materials
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/project-name/print){:target="_blank"}.
 
-[Here is a link to the resources for this project](http://rpf.io/project-name-go).
+## Club leader resources
+* [online completed project](https://makecode.microbit.org/#pub:55342-38825-28229-57221)
+* [.hex project file to transfer onto your micro:bit](resources/microbit-Against-the-Clock.hex)
+* [online completed "Countdown" challenge](https://makecode.microbit.org/#pub:69636-14914-13941-21768)
+* [.hex file for the completed "Countdown" challenge](resources/microbit-Countdown.hex)
 
 --- /collapse ---
