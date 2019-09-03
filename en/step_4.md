@@ -22,3 +22,5 @@ Try adjusting the pause to improve the timing. You can use an `if/else` block to
 
 
 --- /challenge ---
+
+![progress bar](images/m1-4.png)
